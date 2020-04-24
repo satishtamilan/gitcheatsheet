@@ -1,4 +1,4 @@
-# gitcheatsheet
+# gitcheatsheets
 Has all the GIT cheatsheet commands.
 
 Git Commands
